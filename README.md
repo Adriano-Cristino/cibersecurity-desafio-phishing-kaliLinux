@@ -51,7 +51,7 @@ Para se proteger contra ataques de phishing:
 Desafio realizado como parte do Bootcamp Santander Cibersegurança pela [Digital Innovation One](https://www.dio.me/).
 
 ## 👨‍💻 Autor
-[Seu Nome]
+Adriano Cristino
 
 ## 📄 Licença
 Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/).
